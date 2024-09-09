@@ -114,7 +114,7 @@ class Timer {
         min.textContent = minutes;
         sec.textContent = seconds;
     
-        const text = this.timer.mode === 'pomodoro' ? 'Get back to work!' : 'Take a break!';
+        const text = this.timer.mode === 'pomodoro' ? this.taskInput.value : 'Take a break!';
         document.title = `${minutes}:${seconds} — ${text}`;
     }
     
