@@ -3,6 +3,8 @@
 ## Project description
 This is a little improvement of pomodoro app from a tutorial here: https://freshman.tech/pomodoro-timer/. At this project, I remade the JS side using class and add some liitle feature like adding the task name, customize duration and reset button. Btw, I will update some other important features later (i.e. history of completed pomodoros that stored to local browser, etc.) and fix some annoying bugs.
 
+(9/11/2024) This project is deprecated since I want to make enchanted version of this pomodoro
+
 ## Technology used
 Just a simple vanilla JS page (absolutely with HTML and CSS too)
 
